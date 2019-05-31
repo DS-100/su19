@@ -1,0 +1,98 @@
+- date: 6/24/2019
+  resources: '- [Textbook: Data Science Life Cycle](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)'
+  topic: Course Overview, Motivating/Defining Data Science, Logistics
+- date: 06/25/2019
+  topic: 'Study Design'
+- date: 06/26/2019
+  topic: 'Data Tables with pandas'
+- date: 06/27/2019
+  topic: 'Data Cleaning'
+- date: 07/01/2019
+  topic: 'Visualization'
+- date: 07/02/2019
+  topic: 'Visualization'
+- date: 07/03/2019
+  topic: 'EDA & Working with Text'
+- date: 07/04/2019
+  topic: 'Holiday (no class)'
+- date: 07/08/2019
+  topic: 'SQL'
+- date: 07/09/2019
+  topic: 'Dimensionality Reduction'
+- date: 07/10/2019
+  topic: 'PCA'
+- date: 07/11/2019
+  topic: 'Case Study'
+- date: 07/15/2019
+  topic: 'Midterm Review'
+- date: 07/16/2019
+  topic: 'Midterm'
+- date: 07/17/2019
+  topic: 'Foundations of Statistical Inference'
+- date: 07/18/2019
+  topic: 'Foundations of Statistical Inference'
+- date: 07/22/2019
+  topic: 'Linear Regression and Feature Engineering'
+- date: 07/23/2019
+  topic: 'Gradient Descent'
+- date: 07/24/2019
+  topic: 'Risk Optimization and Bias-Variance'
+- date: 07/25/2019
+  topic: 'Cross-Validation and Regularization'
+- date: 07/29/2019
+  topic: 'Logistic Regression'
+- date: 07/30/2019
+  topic: 'Classification'
+- date: 07/31/2019
+  topic: 'Prediction: Classification and Regression'
+- date: 08/01/2019
+  topic: 'Prediction: Classification and Regression'
+- date: 08/05/2019
+  topic: 'Inference about Models'
+- date: 08/06/2019
+  topic: 'Big Data and Spark'
+- date: 08/07/2019
+  topic: 'Case Studies'
+- date: 08/08/2019
+  topic: 'Conclusion'
+- date: 08/12/2019
+  topic: 'Final Review'
+- date: 08/13/2019
+  topic: 'Final Review'
+- date: 08/14/2019
+  topic: 'Final'
+- date: 08/15/2019
+  topic: 'Final'
+
+# - date: 1/24/19
+#   slides: assets/lectures/lec02.pdf
+#   topic: Study Design
+# - date: 1/29/19
+#   discussion: '- [Disc2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=disc/disc02/disc02.ipynb)
+
+#     - [Solutions](https://github.com/DS-100/sp19/blob/master/disc/disc02/disc02_sol.ipynb)
+
+#     '
+#   homework: '- [Proj1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj1/proj1.ipynb)
+#     (due 2/12 @ 6pm)
+
+#     - [Solutions](https://github.com/DS-100/sp19/blob/master/proj/proj1/proj1_sol/proj1.ipynb)
+
+#     '
+#   lab: '- [Lab2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab02/lab02.ipynb)
+#     (due 1/30)
+
+#     - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab02/lab02_sol.ipynb)
+
+#     - [Vitamin 1 Solutions](assets/vitamins/vit1_sol.pdf)
+
+#     '
+#   resources: '- [Textbook: Tabular Data](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
+
+#     - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec03)
+
+#     - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec03)
+
+#     '
+#   slides: https://docs.google.com/presentation/d/1j-rNsz8WbmHMj1TLp-Ap4MAipo_zbu_KX1J9waP-fAg/edit?usp=sharing
+#   topic: Data Tables with Pandas
