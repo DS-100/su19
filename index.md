@@ -12,10 +12,10 @@ understand their world. This intermediate level class bridges between
 courses as well as methods courses in other fields. In this class, we explore
 key areas of data science including question formulation, data collection and
 cleaning, visualization, statistical inference, predictive modeling, and
-decision making.​ Through a strong emphasizes on data centric computing,
-quantitative critical thinking, and exploratory data analysis this class covers
-key principles and techniques of data science. These include languages for
-transforming, querying and analyzing data; algorithms for machine learning
+decision making.​ Through a strong emphasis on data centric computing,
+quantitative critical thinking, and exploratory data analysis, this class
+covers key principles and techniques of data science. These include languages
+for transforming, querying and analyzing data; algorithms for machine learning
 methods including regression, classification and clustering; principles behind
 creating informative data visualizations; statistical concepts of measurement
 error and prediction; and techniques for scalable data processing.
