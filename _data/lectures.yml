@@ -1,8 +1,10 @@
 - date: 6/24/2019
-  resources: '- [Textbook: Data Science Life Cycle](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)'
-  topic: Course Overview, Motivating/Defining Data Science, Logistics
+  resources: |
+    - [Textbook: Data Science Life Cycle](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
+    - [Textbook: Data Design](https://www.textbook.ds100.org/ch/02/design_intro.html)
+  topic: Introduction to Data Science, Logistics, Study Design
 - date: 06/25/2019
-  topic: 'Study Design'
+  topic: 'Data Tables with pandas'
 - date: 06/26/2019
   topic: 'Data Tables with pandas'
 - date: 06/27/2019
@@ -60,9 +62,9 @@
 - date: 08/13/2019
   topic: 'Final Review'
 - date: 08/14/2019
-  topic: 'Final'
+  topic: 'Final Review'
 - date: 08/15/2019
-  topic: 'Final'
+  topic: 'Final (9:30am - 12:30pm)'
 
 # - date: 1/24/19
 #   slides: assets/lectures/lec02.pdf
