@@ -3,6 +3,8 @@
     - [Textbook: Data Science Life Cycle](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
     - [Textbook: Data Design](https://www.textbook.ds100.org/ch/02/design_intro.html)
   topic: Introduction to Data Science, Logistics, Study Design
+  homework: |
+    [HW1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw1/hw1.ipynb) (due 06/25 @ 11:59PM)
 - date: 06/25/2019
   topic: 'Data Tables with pandas'
 - date: 06/26/2019
