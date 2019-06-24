@@ -1,8 +1,12 @@
 - date: 6/24/2019
   resources: |
+    - [Webcast](https://youtu.be/JtwBwogRZkI)
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec01)
+    - [Demo on GitHub](https://github.com/DS-100/sp19/tree/master/lec/lec01)
     - [Textbook: Data Science Life Cycle](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
     - [Textbook: Data Design](https://www.textbook.ds100.org/ch/02/design_intro.html)
   topic: Introduction to Data Science, Logistics, Study Design
+  slides: https://docs.google.com/presentation/d/1ebdSAx5Rl3PXJfDSYfM1MG375EvdKqZ4IJycKuHTLFU/edit?usp=sharing
   homework: |
     [HW1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw1/hw1.ipynb) (due 06/25 @ 11:59PM)
 - date: 06/25/2019
