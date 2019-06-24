@@ -1,5 +1,6 @@
 - date: 6/24/2019
   resources: |
+    - [Textbook: Webcast](https://youtu.be/JtwBwogRZkI)
     - [Textbook: Data Science Life Cycle](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)
     - [Textbook: Data Design](https://www.textbook.ds100.org/ch/02/design_intro.html)
   topic: Introduction to Data Science, Logistics, Study Design
