@@ -9,3 +9,30 @@
 #   oh_info:
 #   - 'OH: Th 2 - 4 (411 Soda)'
 #   name: Allen Shen
+
+ - discussion_info:
+   email: manana.hakobyan@berkeley.edu
+   image: assets/images/staff_pics/manana_hakyoban.jpg
+   lab_info:
+   oh_info:
+   name: Manana Hakyoban
+
+- discussion_info:
+  - 'Disc: MW 1-2 PM (Evans 334)'
+  email: ishaan.srivastava@berkeley.edu
+  image: assets/images/staff_pics/manana_hakyoban.jpg
+  lab_info:
+  - 'Lab: 1 - 2 (Evans 458)'
+  oh_info:
+  - 'OH: TBD'
+  name: Ishaan Srivastava
+
+- discussion_info:
+  - 'Disc: MW 1-2 PM (Evans 334)'
+  email: ishaan.srivastava@berkeley.edu
+  image: assets/images/staff_pics/manana_hakyoban.jpg
+  lab_info:
+  - 'Lab: 1 - 2 (Evans 458)'
+  oh_info:
+  - 'OH: TBD'
+  name: Ishaan Srivastava
