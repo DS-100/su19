@@ -80,6 +80,5 @@ the following (or equivalent) prerequisites:
 
 ## TAs
 
-TBA
 
 {% include staff_entries.html %}
