@@ -3,12 +3,12 @@ layout: page
 title: "Grading"
 ---
 
-- 5% Attendance
+- 5% (or 0%) Attendance
 - 15% Labs
 - 20% Homeworks
 - 15% Projects
-- 15% Midterm
-- 30% Final
+- 15% (or 17.5%) Midterm
+- 30% (or 32.5%) Final
 
 There will be 3 projects and about 7 homework assignments. Assignments must be
 completed individually and will mix programming and short answer questions. Lab
@@ -19,14 +19,18 @@ be dropped.
 Lecture attendance counts for 5% of the overall grade and will be recorded
 using a Google Form that will be open during a random point during lecture. To
 receive credit for attendance, you must attend at least 3 lectures a week for 6
-weeks. You may choose not to attend lecture, in which case the midterm and
-final will count for 2.5% more of the overall grade (17.5% and 32.5%).
+weeks. There is no partial credit for the attendance grade.
+
+You may choose not to attend lecture, in which case the midterm and final will
+automatically count for 2.5% more of the overall grade (17.5% and 32.5%).
 
 There will be one midterm in class tentatively scheduled for Tuesday, July
 18th. The final exam is scheduled to take place on August 15th from
 9:30am-12:30pm. If you miss a midterm for a pre-approved reason, such as a
 class conflict or illness, the final exam will be used to compute your overall
-exam score (out of 45%). No alternate midterm or final times will be given.
+exam score (out of 45%). One alternate final time will be given but you must
+fill out this Google Form by 11:59pm Friday, June 28:
+[http://bit.ly/su19-alt-final](http://bit.ly/su19-alt-final).
 
 ### On Time Policy (try not to be late)
 
