@@ -27,7 +27,7 @@ This class is listed as [STAT C100](https://classes.berkeley.edu/content/2019-su
 - **When:** Lectures Mondays-Thursdays from 9:30am-11:00am.
 - **Where:** [10 Evans](http://www.berkeley.edu/map?evans)
 - **What:** See the [lecture schedule](syllabus)
-- **News:** We will post updates about the class on Piazza (link TBA).
+- **News:** We will post updates about the class on [Piazza](https://piazza.com/class/jwyiam0g7rq6rb).
 
 ## Lab, Section, and Office Hours Schedules
 

@@ -7,29 +7,7 @@
       - 'OH: We 11 - 12 (location TBD)'
       - 'OH: Th 11 - 12 (location TBD)'
       - 'OH: Fr 11 - 12 (location TBD)'
-   name: Manana Hakyoban
-
- - discussion_info:
-   - 'Disc: MW 1 - 2 (Evans 334)'
-   email: ishaan.srivastava@berkeley.edu
-   image: assets/images/staff_pics/ishaan_srivastava.jpeg
-   lab_info:
-   - 'Lab: TuTh 1 - 2 (Evans 458)'
-   oh_info:
-   - 'OH: Tu 2 - 4 (location TBD)'
-   - 'OH: Th 2 - 3 (location TBD)'
-   - 'OH: Fr 2 - 3 (location TBD)'
-   name: Ishaan Srivastava
-
- - discussion_info:
-   - 'Disc: MW 11 - 12 (Evans 340)'
-   email: leo.li.3024@berkeley.edu
-   image: assets/images/staff_pics/leo_li.jpg
-   lab_info:
-   - 'Lab: TuTh 11 - 12 (Cory 105)'
-   oh_info:
-   - 'OH: Fri 2 - 6 (location TBD)'
-   name: Leo Li
+   name: Manana Hakyoban (Head TA)
 
  - discussion_info:
    - 'Disc: MW 12 - 1 (Evans 334)'
@@ -53,3 +31,25 @@
    - 'OH: Tu 2 - 4 (location TBD)'
    - 'OH: Th 2 - 4 (location TBD)'
    name: Raguvir Kunani
+
+ - discussion_info:
+   - 'Disc: MW 11 - 12 (Evans 340)'
+   email: leo.li.3024@berkeley.edu
+   image: assets/images/staff_pics/leo_li.jpg
+   lab_info:
+   - 'Lab: TuTh 11 - 12 (Cory 105)'
+   oh_info:
+   - 'OH: Fri 2 - 6 (location TBD)'
+   name: Leo Li
+
+ - discussion_info:
+   - 'Disc: MW 1 - 2 (Evans 334)'
+   email: ishaan.srivastava@berkeley.edu
+   image: assets/images/staff_pics/ishaan_srivastava.jpeg
+   lab_info:
+   - 'Lab: TuTh 1 - 2 (Evans 458)'
+   oh_info:
+   - 'OH: Tu 2 - 4 (location TBD)'
+   - 'OH: Th 2 - 3 (location TBD)'
+   - 'OH: Fr 2 - 3 (location TBD)'
+   name: Ishaan Srivastava
