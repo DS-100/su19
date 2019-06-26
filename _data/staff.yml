@@ -1,38 +1,55 @@
-# - discussion_info:
-#   - 'Disc: 2 - 3 (Dwinelle 251)'
-#   - 'Disc: 3 - 4 (Dwinelle 255)'
-#   email: allenshen5@berkeley.edu
-#   image: assets/images/staff_pics/allen_shen.jpg
-#   lab_info:
-#   - 'Lab: 2 - 3 (SDH 254)'
-#   - 'Lab: 3 - 4 (SDH 254)'
-#   oh_info:
-#   - 'OH: Th 2 - 4 (411 Soda)'
-#   name: Allen Shen
-
  - discussion_info:
    email: manana.hakobyan@berkeley.edu
    image: assets/images/staff_pics/manana_hakyoban.jpg
-   lab_info:
+   lab_info: ''
    oh_info:
+      - 'OH: Tu 11 - 12 (location TBD)'
+      - 'OH: We 11 - 12 (location TBD)'
+      - 'OH: Th 11 - 12 (location TBD)'
+      - 'OH: Fr 11 - 12 (location TBD)'
    name: Manana Hakyoban
 
-- discussion_info:
-  - 'Disc: MW 1-2 PM (Evans 334)'
-  email: ishaan.srivastava@berkeley.edu
-  image: assets/images/staff_pics/manana_hakyoban.jpg
-  lab_info:
-  - 'Lab: 1 - 2 (Evans 458)'
-  oh_info:
-  - 'OH: TBD'
-  name: Ishaan Srivastava
+ - discussion_info:
+   - 'Disc: MW 1 - 2 (Evans 334)'
+   email: ishaan.srivastava@berkeley.edu
+   image: assets/images/staff_pics/ishaan_srivastava.jpeg
+   lab_info:
+   - 'Lab: TuTh 1 - 2 (Evans 458)'
+   oh_info:
+   - 'OH: Tu 2 - 4 (location TBD)'
+   - 'OH: Th 2 - 3 (location TBD)'
+   - 'OH: Fr 2 - 3 (location TBD)'
+   name: Ishaan Srivastava
 
-- discussion_info:
-  - 'Disc: MW 1-2 PM (Evans 334)'
-  email: ishaan.srivastava@berkeley.edu
-  image: assets/images/staff_pics/manana_hakyoban.jpg
-  lab_info:
-  - 'Lab: 1 - 2 (Evans 458)'
-  oh_info:
-  - 'OH: TBD'
-  name: Ishaan Srivastava
+ - discussion_info:
+   - 'Disc: MW 11 - 12 (Evans 340)'
+   email: leo.li.3024@berkeley.edu
+   image: assets/images/staff_pics/leo_li.jpg
+   lab_info:
+   - 'Lab: TuTh 11 - 12 (Cory 105)'
+   oh_info:
+   - 'OH: Fri 2 - 6 (location TBD)'
+   name: Leo Li
+
+ - discussion_info:
+   - 'Disc: MW 12 - 1 (Evans 334)'
+   email: sdjajadi@berkeley.edu
+   image: assets/images/staff_pics/stephanie_djajadi.jpeg
+   lab_info:
+   - 'Lab: TuTh 12-1 (Evans 458)'
+   oh_info:
+   - 'OH: M 1 - 2 (location TBD)'
+   - 'OH: Th 1 - 2 (location TBD)'
+   - 'OH: F 1 - 2 (location TBD)'
+   name: Stephanie Djajadi
+
+ - discussion_info:
+   - 'Disc: MW 11 - 12 (Evans 334)'
+   email: rkunani@berkeley.edu
+   image: assets/images/staff_pics/raguvir_kunani.jpg
+   lab_info:
+   - 'Lab: TuTh 11 - 12 (Evans 458)'
+   oh_info:
+   - 'OH: Tu 2 - 4 (location TBD)'
+   - 'OH: Th 2 - 4 (location TBD)'
+   name: Raguvir Kunani
