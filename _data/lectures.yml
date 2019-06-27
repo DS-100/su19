@@ -32,6 +32,11 @@
     - [Textbook: Tabular Data and pandas](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
 - date: 06/27/2019
   topic: 'Data Cleaning'
+  slides: https://docs.google.com/presentation/d/1cLSOsGYrzOZo1awGJoaQFQRkYq4shzkGbjXIHBsLS0E/edit#slide=id.g5c7ba9665a_0_33
+  resources: |
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec03/lec04-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec04)
+    - [Textbook: Tabular Data and pandas](https://www.textbook.ds100.org/ch/05/cleaning_intro.html)
 - date: 07/01/2019
   topic: 'Visualization'
 - date: 07/02/2019
