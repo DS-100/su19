@@ -3,10 +3,10 @@
    image: assets/images/staff_pics/manana_hakyoban.jpg
    lab_info: ''
    oh_info:
-      - 'OH: Tu 11 - 12 (location TBD)'
-      - 'OH: We 11 - 12 (location TBD)'
-      - 'OH: Th 11 - 12 (location TBD)'
-      - 'OH: Fr 11 - 12 (location TBD)'
+      - 'OH: Tu 11 - 12 (Evans 426)'
+      - 'OH: We 11 - 12 (Evans 426)'
+      - 'OH: Th 11 - 12 (Evans 426)'
+      - 'OH: Fr 11 - 12 (Evans 426)'
    name: Manana Hakyoban (Head TA)
 
  - discussion_info:
@@ -16,9 +16,9 @@
    lab_info:
    - 'Lab: TuTh 12-1 (Evans 458)'
    oh_info:
-   - 'OH: M 1 - 2 (location TBD)'
-   - 'OH: Th 1 - 2 (location TBD)'
-   - 'OH: F 1 - 2 (location TBD)'
+   - 'OH: M 1 - 2 (Evans 426)'
+   - 'OH: Th 1 - 2 (Evans 426)'
+   - 'OH: F 12 - 2 (Evans 426)'
    name: Stephanie Djajadi
 
  - discussion_info:
@@ -28,8 +28,8 @@
    lab_info:
    - 'Lab: TuTh 11 - 12 (Evans 458)'
    oh_info:
-   - 'OH: Tu 2 - 4 (location TBD)'
-   - 'OH: Th 2 - 4 (location TBD)'
+   - 'OH: Tu 2 - 4 (Evans 426)'
+   - 'OH: Th 2 - 4 (Evans 426)'
    name: Raguvir Kunani
 
  - discussion_info:
@@ -39,7 +39,7 @@
    lab_info:
    - 'Lab: TuTh 11 - 12 (Cory 105)'
    oh_info:
-   - 'OH: Fri 2 - 6 (location TBD)'
+   - 'OH: Fri 2 - 6 (Evans 426)'
    name: Leo Li
 
  - discussion_info:
@@ -49,7 +49,7 @@
    lab_info:
    - 'Lab: TuTh 1 - 2 (Evans 458)'
    oh_info:
-   - 'OH: Tu 2 - 4 (location TBD)'
-   - 'OH: Th 2 - 3 (location TBD)'
-   - 'OH: Fr 2 - 3 (location TBD)'
+   - 'OH: Tu 2 - 4 (Evans 426)'
+   - 'OH: Th 2 - 3 (Evans 426)'
+   - 'OH: Fr 1 - 2 (Evans 426)'
    name: Ishaan Srivastava
