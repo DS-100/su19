@@ -48,6 +48,8 @@
   topic: 'Visualization'
 - date: 07/03/2019
   topic: 'EDA & Working with Text'
+  discussion: |
+    - [Disc4](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc04/)
 - date: 07/04/2019
   topic: 'Holiday (no class)'
 - date: 07/08/2019
