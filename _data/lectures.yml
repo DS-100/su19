@@ -38,7 +38,7 @@
   slides: https://docs.google.com/presentation/d/1cLSOsGYrzOZo1awGJoaQFQRkYq4shzkGbjXIHBsLS0E/edit#slide=id.g5c7ba9665a_0_33
   resources: |
     - [Screencast](https://youtu.be/kNgUMhSsJt4)
-    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec04/lec04-live.ipynb)
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec04/lec04.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec04)
     - [Textbook: Tabular Data and pandas](https://www.textbook.ds100.org/ch/05/cleaning_intro.html)
   homework: |
@@ -49,6 +49,11 @@
   topic: 'Visualization'
   discussion: |
     - [Disc3](https://github.com/DS-100/su19/blob/master/disc/disc03/disc03.pdf)
+  slides: https://docs.google.com/presentation/d/14EwvcBC2gfXueiRWofUPDU8_RzD4vkoBAX9e6vt0sok/edit#slide=id.g5c7ba9665a_0_33
+  resources: |
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec05/lec05-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec05)
+    - [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
 - date: 07/02/2019
   topic: 'Visualization'
 - date: 07/03/2019
