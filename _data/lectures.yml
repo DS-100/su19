@@ -57,6 +57,9 @@
     - [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
 - date: 07/02/2019
   topic: 'Visualization'
+  slides: https://docs.google.com/presentation/d/16dhaBgUQvGOUb5Mq3avxas8ogZegeaOVaBakIzZ6gy8/edit#slide=id.g5c7ba9665a_0_33
+  resources: |
+    - [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
 - date: 07/03/2019
   topic: 'EDA & Working with Text'
   # discussion: |
