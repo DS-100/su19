@@ -49,6 +49,7 @@
   topic: 'Visualization'
   discussion: |
     - [Disc3](https://github.com/DS-100/su19/blob/master/disc/disc03/disc03.pdf)
+    - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc03/disc03sol.pdf)
   slides: https://docs.google.com/presentation/d/14EwvcBC2gfXueiRWofUPDU8_RzD4vkoBAX9e6vt0sok/edit#slide=id.g5c7ba9665a_0_33
   resources: |
     - [Screencast](https://youtu.be/Wtlz_Ib2j10)
@@ -72,8 +73,8 @@
     - [Textbook: EDA](https://www.textbook.ds100.org/ch/04/eda_intro.html)
     - [Textbook: 5.3-5.7](https://www.textbook.ds100.org/ch/05/cleaning_structure.html)
     - [Textbook: Working with Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
-  # discussion: |
-  #   - [Disc4](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc04/)
+  discussion: |
+    - [Disc4](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc04/)
 - date: 07/04/2019
   topic: 'Holiday (no class)'
 - date: 07/08/2019
