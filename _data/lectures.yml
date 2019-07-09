@@ -97,12 +97,17 @@
   topic: 'Dimensionality Reduction'
   slides: https://docs.google.com/presentation/d/1qgFwJNl1r_bZXQWhD1d8dlgoYYsLL9o7UYtjWC6-e9k/edit#slide=id.g5d034b63a4_0_41
   resources: |
-    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec09/lec09-live.ipynb)
+    - [Screencast](https://www.youtube.com/watch?v=Pd_XyqzkCZU)
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec09/lec09.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec09)
   lab: |
     [Lab5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab05/lab05.ipynb) (due 07/09 @ 11:59PM)
 - date: 07/10/2019
   topic: 'PCA'
+  slides: https://docs.google.com/presentation/d/1nYyVJy80xP4rBPvHfacgr_uA66gOXtNkEdjgtMb4E40/edit#slide=id.g5d069b8f68_0_45
+  resources: |
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec10/lec10-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec10)
 - date: 07/11/2019
   topic: 'Case Study'
 - date: 07/15/2019
