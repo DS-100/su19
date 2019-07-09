@@ -90,11 +90,15 @@
   slides: https://docs.google.com/presentation/d/1AJfF2wFqRIYM8qdnyhwFyqY1DKY3VBqpaoWZ0GjI38w/edit#slide=id.g5cfc22738f_1_33
   resources: |
     - [Screencast](https://youtu.be/RIOrt9_cof8)
-    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec08/lec08-live.ipynb)
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec08/lec08.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec08)
     - [Textbook: Databases and SQL](https://www.textbook.ds100.org/ch/09/sql_intro.html)
 - date: 07/09/2019
   topic: 'Dimensionality Reduction'
+  slides: https://docs.google.com/presentation/d/1qgFwJNl1r_bZXQWhD1d8dlgoYYsLL9o7UYtjWC6-e9k/edit#slide=id.g5d034b63a4_0_41
+  resources: |
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec09/lec09-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec09)
 - date: 07/10/2019
   topic: 'PCA'
 - date: 07/11/2019
