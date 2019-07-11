@@ -108,6 +108,7 @@
   topic: 'PCA'
   slides: https://docs.google.com/presentation/d/1nYyVJy80xP4rBPvHfacgr_uA66gOXtNkEdjgtMb4E40/edit#slide=id.g5d069b8f68_0_45
   resources: |
+    - [Screencast (from Sp19)](https://www.youtube.com/watch?v=DeEI6xy2CDM)
     - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec10/lec10.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec10)
   discussion: |
@@ -115,6 +116,10 @@
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc06/disc06_sol.pdf)
 - date: 07/11/2019
   topic: 'Case Study'
+  slides: https://docs.google.com/presentation/d/1MRBrp19dfDELxwSLHaG5shL4GnaOEmDY3ML_Wrijv-A/edit#slide=id.g5d103643b4_0_49
+  resources: |
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec11/lec11-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec11)
 - date: 07/15/2019
   topic: 'Midterm Review'
 - date: 07/16/2019
