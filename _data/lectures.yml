@@ -2,7 +2,6 @@
   discussion: |
     - [Disc1](https://github.com/DS-100/su19/blob/master/disc/disc01/disc01.pdf)
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc01/disc01_sol.pdf)
-  lab: '- [Lab1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab01/lab01.ipynb)'
   resources: |
     - [Screencast](https://youtu.be/JtwBwogRZkI)
     - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec01)
@@ -21,6 +20,7 @@
     - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec02/lec02.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec02)
     - [Textbook: Tabular Data and pandas](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
+  lab: '- [Lab1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab01/lab01.ipynb)' (due 06/25 @ 11:59PM)
 - date: 06/26/2019
   discussion: |
     - [Disc2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc02/disc02.ipynb)
@@ -63,7 +63,7 @@
     - [Screencast](https://youtu.be/SiVLrxGfUEU)
     - [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
   lab: |
-    [Lab3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab03/lab03.ipynb) (due 07/2 @ 11:59PM)
+    [Lab3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab03/lab03.ipynb) (due 07/02 @ 11:59PM)
 - date: 07/03/2019
   topic: 'EDA & Working with Text'
   slides: https://docs.google.com/presentation/d/19odz3x4XmWvX0PnR2jKPlslYDcbjqdL2obNXjadaxpE/edit
@@ -75,7 +75,7 @@
     - [Textbook: 5.3-5.7](https://www.textbook.ds100.org/ch/05/cleaning_structure.html)
     - [Textbook: Working with Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
   homework: |
-    [HW2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw2/)
+    [HW2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw2/) (due 07/09 @ 11:59PM)
   discussion: |
     - [Disc4](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc04/)
     - [Solutions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc04/disc04_sol.ipynb)
