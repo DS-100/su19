@@ -43,9 +43,10 @@
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec04)
     - [Textbook: Tabular Data and pandas](https://www.textbook.ds100.org/ch/05/cleaning_intro.html)
   homework: |
-    [Proj1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=proj/proj1/proj1.ipynb) (due 07/02 @ 11:59PM)
+    - [Proj1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=proj/proj1/proj1.ipynb) (due 07/02 @ 11:59PM)
+    - [Solutions](https://github.com/DS-100/su19/blob/master/proj/proj1/proj1_sol.pdf)
   lab: |
-    [Lab2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab02/lab02.ipynb) (due 06/27 @ 11:59PM)
+    - [Lab2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab02/lab02.ipynb) (due 06/27 @ 11:59PM)
 - date: 07/01/2019
   topic: 'Visualization'
   discussion: |
