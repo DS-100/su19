@@ -87,7 +87,7 @@
   topic: 'Holiday (no class)'
   homework: |
     [HW3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw3/) (due 07/12 @ 11:59PM)
-    - [Solutions](assets/hw/hw3sol.pdf)
+#  - [Solutions](assets/hw/hw3sol.pdf)
 - date: 07/08/2019
   topic: 'SQL'
   discussion: |
