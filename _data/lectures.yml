@@ -139,7 +139,8 @@
     - [Blank Midterm](assets/exams/su19/su19mt_blank.pdf)
     - [Solutions](assets/exams/su19/su19mt_sol.pdf)
 - date: 07/17/2019
-  topic: 'Foundations of Statistical Inference'
+  topic: 'Foundations of Statistical Inference: Random Variables and Estimators'
+  slides: https://docs.google.com/presentation/d/1Jfj_bQOHGXOG1foNygG1LTrU8hDqv80rEyTvm2zU4wA/edit#slide=id.g5d103643b4_0_49
 - date: 07/18/2019
   topic: 'Foundations of Statistical Inference'
 - date: 07/22/2019
