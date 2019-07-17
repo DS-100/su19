@@ -138,9 +138,11 @@
   resources: |
     - [Blank Midterm](assets/exams/su19/su19mt_blank.pdf)
     - [Solutions](assets/exams/su19/su19mt_sol.pdf)
-- date: 07/17/2019
+- date: 07/17/2019j
   topic: 'Foundations of Statistical Inference: Random Variables and Estimators'
   slides: https://docs.google.com/presentation/d/1Jfj_bQOHGXOG1foNygG1LTrU8hDqv80rEyTvm2zU4wA/edit#slide=id.g5d103643b4_0_49
+  resources: |
+    - [Screencast (from Sp19)](https://www.youtube.com/watch?v=WXPDLwx7E5M)
   homework: |
     [HW4](assets/hw/hw4.pdf) (due 07/19 @ 11:59PM)
   discussion: |
