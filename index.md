@@ -25,7 +25,7 @@ This class is listed as [STAT C100](https://classes.berkeley.edu/content/2019-su
 ## Important Information:
 
 - **When:** Lectures Mondays-Thursdays from 9:30am-11:00am.
-- **Where:** [105 North Gate](https://www.berkeley.edu/map?northgatehall)
+- **Where:** [10 Evans](https://www.berkeley.edu/map?evans)
 - **What:** See the [lecture schedule](syllabus)
 - **News:** We will post updates about the class on [Piazza](https://piazza.com/class/jwyiam0g7rq6rb).
 
