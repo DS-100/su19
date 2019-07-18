@@ -143,6 +143,7 @@
   slides: https://docs.google.com/presentation/d/1Jfj_bQOHGXOG1foNygG1LTrU8hDqv80rEyTvm2zU4wA/edit#slide=id.g5d103643b4_0_49
   resources: |
     - [Screencast (from Sp19)](https://www.youtube.com/watch?v=WXPDLwx7E5M)
+    - [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
   homework: |
     [HW4](assets/hw/hw4.pdf) (due 07/23 @ 11:59PM)
   discussion: |
@@ -154,6 +155,7 @@
   resources: |
     - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec13/lec13-live.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec13)
+    - [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
   lab : |
     [Lab 7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab07/)
 - date: 07/22/2019
