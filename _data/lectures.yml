@@ -153,7 +153,8 @@
   topic: 'Foundations of Statistical Inference: Risk and Loss Functions'
   slides: https://docs.google.com/presentation/d/1fWkDOGp4vs1PAlEnUU9aXDl6DK4T06TNNkbYhU8iLeo/edit
   resources: |
-    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec13/lec13-live.ipynb)
+    - [Screencast](https://www.youtube.com/watch?v=mfA1IGl0syU)
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec13/lec13.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec13)
     - [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
   lab : |
