@@ -163,6 +163,12 @@
   topic: 'Linear Regression and Feature Engineering'
   discussion: |
     - [Disc 8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc08/)
+  slides: https://docs.google.com/presentation/d/1hnwPimGYUsCV9sFwWITVln9i4xvR_uZJMoVf9B6MW8s/edit#slide=id.g5d103643b4_0_49
+  resources: |
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec15/lec15-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec15)
+    - [Textbook: Linear Regression](https://www.textbook.ds100.org/ch/13/linear_models.html)
+    - [Textbook: Feature Engineering](https://www.textbook.ds100.org/ch/14/feature_engineering.html)
 - date: 07/23/2019
   topic: 'Gradient Descent'
 - date: 07/24/2019
