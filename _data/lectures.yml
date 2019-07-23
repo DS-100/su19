@@ -160,20 +160,24 @@
   lab : |
     [Lab 7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab07/)
 - date: 07/22/2019
-  topic: 'Linear Regression and Feature Engineering'
+  topic: 'Linear Regression'
   discussion: |
     - [Disc 8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc08/disc08.ipynb)
   slides: https://docs.google.com/presentation/d/1hnwPimGYUsCV9sFwWITVln9i4xvR_uZJMoVf9B6MW8s/edit#slide=id.g5d103643b4_0_49
   resources: |
     - [Screencast](https://youtu.be/_ZAMU8bWukc)
-    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec15/lec15-live.ipynb)
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec15/lec15.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec15)
     - [Textbook: Linear Regression](https://www.textbook.ds100.org/ch/13/linear_models.html)
-    - [Textbook: Feature Engineering](https://www.textbook.ds100.org/ch/14/feature_engineering.html)
 - date: 07/23/2019
   topic: 'Gradient Descent'
+  slides: https://docs.google.com/presentation/d/1jukDrq1LHx_DdRG87mGDikwBT4Z-fDcWPBmx3pO3jkI/edit#slide=id.g5d103643b4_0_49
+  resources: |
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec16/lec16-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec16)
+    - [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
 - date: 07/24/2019
-  topic: 'Risk Optimization and Bias-Variance'
+  topic: 'Feature Engineering and Bias-Variance'
 - date: 07/25/2019
   topic: 'Cross-Validation and Regularization'
 - date: 07/29/2019
