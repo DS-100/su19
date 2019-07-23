@@ -178,7 +178,9 @@
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec16)
     - [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
   lab : |
-    [Lab 8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab08/)
+    [Lab 8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab08/) (due 07/23 @ 11:59PM)
+  homework: |
+    [HW5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw5/) (due 07/26 @ 11:59PM)
 - date: 07/24/2019
   topic: 'Feature Engineering and Bias-Variance'
 - date: 07/25/2019
