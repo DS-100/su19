@@ -163,6 +163,7 @@
   topic: 'Linear Regression'
   discussion: |
     - [Disc 8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc08/disc08.ipynb)
+    - [Solutions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc08/disc08sols.ipynb)
   slides: https://docs.google.com/presentation/d/1hnwPimGYUsCV9sFwWITVln9i4xvR_uZJMoVf9B6MW8s/edit#slide=id.g5d103643b4_0_49
   resources: |
     - [Screencast](https://youtu.be/_ZAMU8bWukc)
