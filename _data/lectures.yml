@@ -189,6 +189,8 @@
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec17)
     - [Textbook: Feature Engineering](https://www.textbook.ds100.org/ch/14/feature_engineering.html)
     - [Textbook: Bias-Variance Tradeoff](https://www.textbook.ds100.org/ch/15/bias_intro.html)
+  discussion: |
+    - [Disc 9](https://github.com/DS-100/su19/blob/master/disc/disc09/disc09.pdf)
 - date: 07/25/2019
   topic: 'Cross-Validation and Regularization'
 - date: 07/29/2019
