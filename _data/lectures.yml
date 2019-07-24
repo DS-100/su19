@@ -185,6 +185,7 @@
   topic: 'Feature Engineering and Bias-Variance'
   slides: https://docs.google.com/presentation/d/1s7aThK9YKjzcJH3STtDR2NN6k9k2_CH6hbXmeVs0ysU/edit#slide=id.g5d103643b4_0_49
   resources: |
+    - [Screencast](https://youtu.be/Quant8d0aoA)
     - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec17/lec17-live.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec17)
     - [Textbook: Feature Engineering](https://www.textbook.ds100.org/ch/14/feature_engineering.html)
