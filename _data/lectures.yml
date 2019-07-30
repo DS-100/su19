@@ -231,13 +231,13 @@
 - date: 07/31/2019
   topic: 'Regularization for Logistic Regression, Multiclass Classification'
 - date: 08/01/2019
-  topic: 'Decision Trees'
-- date: 08/05/2019
   topic: 'Inference about Models'
-- date: 08/06/2019
+- date: 08/05/2019
   topic: 'Big Data and Ray'
+- date: 08/06/2019
+  topic: 'Decision Trees'
 - date: 08/07/2019
-  topic: 'Case Studies'
+  topic: 'Random Forests'
 - date: 08/08/2019
   topic: 'Conclusion'
 - date: 08/12/2019
@@ -245,7 +245,7 @@
 - date: 08/13/2019
   topic: 'Final Review'
 - date: 08/14/2019
-  topic: 'Final Review'
+  topic: 'Break (no lecture)'
 - date: 08/15/2019
   topic: 'Final (9:30am - 12:30pm)'
 
