@@ -220,6 +220,11 @@
     - [Disc 10](https://github.com/DS-100/su19/blob/master/disc/disc10/disc10.pdf)
 - date: 07/30/2019
   topic: 'Classification'
+  slides: https://docs.google.com/presentation/d/1ZmEdhdUIA1Yvq7SxMnV41jrpxZd_S9lD0D23Qe7vFa0/edit
+  resources: |
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec20/lec20-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec20)
+    - [Textbook: Classification (17.6-17.7)](https://www.textbook.ds100.org/ch/17/classification_sgd.html)
 - date: 07/31/2019
   topic: 'Prediction: Classification and Regression'
 - date: 08/01/2019
