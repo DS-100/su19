@@ -233,7 +233,7 @@
   topic: 'Decision Boundaries, Modeling Considerations'
   slides: https://docs.google.com/presentation/d/1ybwBNhVgon2IM5uOE_tel1m4A_EKGcMGZGQWSRhUrqA/edit
   resources: |
-    - [Screencast](https://youtu.be/eAX4oHidlZkÍ)
+    - [Screencast](https://www.youtube.com/watch?v=eAX4oHidlZk)
     - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec21/lec21.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec21)
     - [Textbook: Classification (17.8)](https://www.textbook.ds100.org/ch/17/classification_multiclass.html)
