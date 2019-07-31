@@ -218,6 +218,7 @@
     - [Textbook: Classification (17.1-17.5)](https://www.textbook.ds100.org/ch/17/classification_intro.html)
   discussion: |
     - [Disc 10](https://github.com/DS-100/su19/blob/master/disc/disc10/disc10.pdf)
+    - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc10/disc10_sol.pdf)
 - date: 07/30/2019
   topic: 'Classifier Evaluation and Fitting'
   slides: https://docs.google.com/presentation/d/1ZmEdhdUIA1Yvq7SxMnV41jrpxZd_S9lD0D23Qe7vFa0/edit
@@ -230,6 +231,9 @@
     [Lab 10](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab10/) (due 07/30 @ 11:59PM)
 - date: 07/31/2019
   topic: 'Regularization for Logistic Regression, Multiclass Classification'
+  discussion: |
+    - [Disc 11](https://github.com/DS-100/su19/blob/master/disc/disc11/disc11.pdf)
+- 
 - date: 08/01/2019
   topic: 'Inference about Models'
 - date: 08/05/2019
