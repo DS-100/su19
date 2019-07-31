@@ -230,10 +230,14 @@
   lab: |
     [Lab 10](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab10/) (due 07/30 @ 11:59PM)
 - date: 07/31/2019
-  topic: 'Regularization for Logistic Regression, Multiclass Classification'
+  topic: 'Decision Boundaries, Modeling Considerations'
+  slides: https://docs.google.com/presentation/d/1ybwBNhVgon2IM5uOE_tel1m4A_EKGcMGZGQWSRhUrqA/edit
+  resources: |
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec21/lec21-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec21)
+    - [Textbook: Classification (17.8)](https://www.textbook.ds100.org/ch/17/classification_multiclass.html)
   discussion: |
     - [Disc 11](https://github.com/DS-100/su19/blob/master/disc/disc11/disc11.pdf)
-- 
 - date: 08/01/2019
   topic: 'Inference about Models'
 - date: 08/05/2019
