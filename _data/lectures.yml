@@ -239,6 +239,8 @@
     - [Textbook: Classification (17.8)](https://www.textbook.ds100.org/ch/17/classification_multiclass.html)
   discussion: |
     - [Disc 11](https://github.com/DS-100/su19/blob/master/disc/disc11/disc11.pdf)
+  homework: |
+    - [Proj 2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=proj/proj2/) (due 8/6 @ 11:59 PM)
 - date: 08/01/2019
   topic: 'Inference about Models'
 - date: 08/05/2019
