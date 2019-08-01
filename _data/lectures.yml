@@ -246,7 +246,7 @@
   slides: https://docs.google.com/presentation/d/1W2i_xslWFBXAsnAeweWT5WYSX5CulY6zsl07A5jPwTs/edit
   resources: |
     - [Screencast](https://youtu.be/ocOLDHySr6w)
-    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec22/lec22-live.ipynb)
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec22/lec22.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec22)
     - [Textbook: Inference (18)](https://www.textbook.ds100.org/ch/18/hyp_intro.html)
   lab: |
