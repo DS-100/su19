@@ -242,7 +242,12 @@
   homework: |
     - [Proj 2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=proj/proj2/) (due 8/6 @ 11:59 PM)
 - date: 08/01/2019
-  topic: 'Inference about Models'
+  topic: 'Inference for Modeling'
+  slides: https://docs.google.com/presentation/d/1W2i_xslWFBXAsnAeweWT5WYSX5CulY6zsl07A5jPwTs/edit
+  resources: |
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec22/lec22-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec22)
+    - [Textbook: Inference (18)](https://www.textbook.ds100.org/ch/18/hyp_intro.html)
 - date: 08/05/2019
   topic: 'Big Data and Ray (Guest Lecturer: Robert Nishihara)'
 - date: 08/06/2019
