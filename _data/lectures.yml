@@ -256,8 +256,11 @@
   topic: 'Big Data and Ray (Guest Lecturer: Robert Nishihara)'
   discussion: |
     - [Disc 12](https://github.com/DS-100/su19/blob/master/disc/disc12/disc12.pdf)
+  slides: https://drive.google.com/open?id=1iFnOKNplpFArvGvzaJVPFyWYMa9ZcGCG
+  resources: |
+    - [Screencast](https://youtu.be/F_ui9u3EVpI)
 - date: 08/06/2019
-  topic: 'Decision Trees'
+  topic: 'Big Data and Spark, Decision Trees'
 - date: 08/07/2019
   topic: 'Random Forests'
 - date: 08/08/2019
