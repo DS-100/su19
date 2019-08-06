@@ -261,6 +261,12 @@
     - [Screencast](https://youtu.be/F_ui9u3EVpI)
 - date: 08/06/2019
   topic: 'Big Data and Spark, Decision Trees'
+  slides: https://docs.google.com/presentation/d/1BQnIgLxXNA7vFMPGuar_c5iw2vyxFq_E-6o2pO7Lhdw/edit#slide=id.g5e117ba9f7_0_57
+  resources: |
+    - [Spark Slides](assets/lec24-spark.pptx)
+    - [Spark Demo](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec24/spark.ipynb)
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec24/lec24-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec24)
 - date: 08/07/2019
   topic: 'Random Forests'
 - date: 08/08/2019
