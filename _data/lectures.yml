@@ -269,6 +269,9 @@
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec24)
 - date: 08/07/2019
   topic: 'Random Forests'
+  lab: |
+    [Lab 12](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab12/) (due 08/06 @ 11:59PM)
+- date: 08/05/2019
 - date: 08/08/2019
   topic: 'Conclusion'
 - date: 08/12/2019
