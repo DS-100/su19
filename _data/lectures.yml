@@ -263,6 +263,8 @@
   topic: 'Big Data and Spark, Decision Trees'
   slides: https://docs.google.com/presentation/d/1BQnIgLxXNA7vFMPGuar_c5iw2vyxFq_E-6o2pO7Lhdw/edit#slide=id.g5e117ba9f7_0_57
   resources: |
+    - [Screencast (Spark)](https://youtu.be/_mgFf2528Ko)
+    - [Screencast (Decision Trees)](https://youtu.be/P3OJOy8aYtM)
     - [Spark Slides](assets/lec24-spark.pptx)
     - [Spark Demo](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec24/spark.ipynb)
     - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec24/lec24-live.ipynb)
