@@ -265,7 +265,8 @@
   resources: |
     - [Screencast (Spark)](https://youtu.be/_mgFf2528Ko)
     - [Screencast (Decision Trees)](https://youtu.be/P3OJOy8aYtM)
-    - [Spark Slides](assets/lec24-spark.pptx)
+    - [Spark Slides (PPT)](assets/lec24-spark.pptx)
+    - [Spark Slides (PDF)](assets/lec24-spark.pdf)
     - [Spark Demo](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec24/spark.ipynb)
     - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec24/lec24-live.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec24)
