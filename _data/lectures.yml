@@ -239,6 +239,7 @@
     - [Textbook: Classification (17.8)](https://www.textbook.ds100.org/ch/17/classification_multiclass.html)
   discussion: |
     - [Disc 11](https://github.com/DS-100/su19/blob/master/disc/disc11/disc11.pdf)
+    - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc11/disc11_sol.pdf)
   homework: |
     - [Proj 2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=proj/proj2/) (due 8/6 @ 11:59 PM)
 - date: 08/01/2019
@@ -256,6 +257,7 @@
   topic: 'Big Data and Ray (Guest Lecturer: Robert Nishihara)'
   discussion: |
     - [Disc 12](https://github.com/DS-100/su19/blob/master/disc/disc12/disc12.pdf)
+    - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc12/disc12_sol.pdf)
   slides: https://drive.google.com/open?id=1iFnOKNplpFArvGvzaJVPFyWYMa9ZcGCG
   resources: |
     - [Screencast](https://youtu.be/F_ui9u3EVpI)
@@ -280,6 +282,9 @@
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec25)
   homework: |
     - [Proj 3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=proj/proj3/) (due 8/13 @ 11:59 PM)
+  discussion: |
+    - [Disc 13](https://github.com/DS-100/su19/blob/master/disc/disc13/disc13.pdf)
+    # - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc13/disc13_sol.pdf)
 - date: 08/08/2019
   topic: 'Ethics & Conclusion'
 - date: 08/12/2019
