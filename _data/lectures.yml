@@ -268,12 +268,16 @@
     - [Spark Slides (PPT)](assets/lec24-spark.pptx)
     - [Spark Slides (PDF)](assets/lec24-spark.pdf)
     - [Spark Demo](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec24/spark.ipynb)
-    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec24/lec24-live.ipynb)
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec24/lec24.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec24)
   lab: |
     [Lab 12](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab12/) (due 08/06 @ 11:59PM)
 - date: 08/07/2019
   topic: 'Random Forests'
+  slides: https://docs.google.com/presentation/d/1uw1l7N1W7qajomzrYIg_gaMJKHMjAank6OWf05vMdmY/edit
+  resources: |
+    - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec25/lec25-live.ipynb)
+    - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec25)
 - date: 08/08/2019
   topic: 'Ethics & Conclusion'
 - date: 08/12/2019
