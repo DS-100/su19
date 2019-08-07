@@ -275,7 +275,7 @@
   lab: |
     [Lab 12](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab12/) (due 08/06 @ 11:59PM)
 - date: 08/07/2019
-  topic: 'Random Forests'
+  topic: 'Random Forests, Runtime Analysis, Modeling Overview'
   slides: https://docs.google.com/presentation/d/1uw1l7N1W7qajomzrYIg_gaMJKHMjAank6OWf05vMdmY/edit
   resources: |
     - [Screencast](https://youtu.be/qh16ITL4bGQ)
