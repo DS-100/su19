@@ -278,6 +278,7 @@
   topic: 'Random Forests'
   slides: https://docs.google.com/presentation/d/1uw1l7N1W7qajomzrYIg_gaMJKHMjAank6OWf05vMdmY/edit
   resources: |
+    - [Screencast](https://youtu.be/qh16ITL4bGQ)
     - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec25/lec25-live.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec25)
   homework: |
