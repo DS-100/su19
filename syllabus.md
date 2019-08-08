@@ -4,7 +4,11 @@ title: "Syllabus"
 page_class: content-wide
 ---
 
-This syllabus is still under development and is subject to change.
+The materials for each lecture are linked in the table below. Alternatively,
+you can browse:
+
+- [The Google Drive folder containing all lecture slides.](https://drive.google.com/drive/folders/155HsAyFuOFiyY8F3xDiEPTzZshlk8SiG)
+- [The YouTube playlist of all recorded screencasts.](https://www.youtube.com/playlist?list=PLPHXc20GewP8J56CisONS_mFZWZAfa7jR)
 
 <script>
   function get_buttom() {
@@ -58,7 +62,6 @@ This syllabus is still under development and is subject to change.
 </script>
 <!-- <a class="show_hide_description_click" href="javascript:void(0)" onclick="showAllDescription();">Show all lecture descriptions</a> -->
 
-
 <div class="table-responsive">
   <table class="syllabus table" id="syllabus_table">
     <colgroup>
@@ -88,6 +91,7 @@ This syllabus is still under development and is subject to change.
 
 
     </tbody>
+
   </table>
 </div>
 
@@ -125,4 +129,3 @@ for (var i = 0; i < lectures.length; i++ ) {
   window.location.hash = `lecture-week-${lectureWeek}`;
 }
 </script>
-
