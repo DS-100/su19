@@ -296,6 +296,9 @@
   resources: |
     - [Google Drive Folder of all slides](https://drive.google.com/drive/folders/155HsAyFuOFiyY8F3xDiEPTzZshlk8SiG)
     - [YouTube playlist of all recorded screencasts](https://www.youtube.com/playlist?list=PLPHXc20GewP8J56CisONS_mFZWZAfa7jR)
+  discussion: |
+    - [Disc 14](https://github.com/DS-100/su19/blob/master/disc/disc14/disc14.pdf)
+    - [Disc 14 Sols](https://github.com/DS-100/su19/blob/master/disc/disc14/disc14_sol.pdf)
 - date: 08/13/2019
   topic: 'Final Review'
 - date: 08/14/2019
