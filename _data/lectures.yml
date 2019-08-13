@@ -303,43 +303,11 @@
     - [Disc 14 Sols](https://github.com/DS-100/su19/blob/master/disc/disc14/disc14_sol.pdf)
 - date: 08/13/2019
   topic: 'Final Review'
+  slides: https://docs.google.com/presentation/d/1YTWkGv37tRBuf3NmZTw-wqMvPmmOd_YWcizFdHFp8xM/edit?usp=sharing
   resources: |
-    - [Slides](https://docs.google.com/presentation/d/1YTWkGv37tRBuf3NmZTw-wqMvPmmOd_YWcizFdHFp8xM/edit?usp=sharing)
+    - [Screencast](https://youtu.be/0GgYpFgcY2Y)
     - [Marked-up Slides](https://drive.google.com/file/d/1YB1xXzb9Ll00PVawUoad1oTyXMVU__Ax/view?usp=sharing)
 - date: 08/14/2019
   topic: 'Break (no lecture)'
 - date: 08/15/2019
   topic: 'Final (9:30am - 12:30pm)'
-
-# - date: 1/24/19
-#   slides: assets/lectures/lec02.pdf
-#   topic: Study Design
-# - date: 1/29/19
-#   discussion: '- [Disc2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=disc/disc02/disc02.ipynb)
-
-#     - [Solutions](https://github.com/DS-100/sp19/blob/master/disc/disc02/disc02_sol.ipynb)
-
-#     '
-#   homework: '- [Proj1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj1/proj1.ipynb)
-#     (due 2/12 @ 6pm)
-
-#     - [Solutions](https://github.com/DS-100/sp19/blob/master/proj/proj1/proj1_sol/proj1.ipynb)
-
-#     '
-#   lab: '- [Lab2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab02/lab02.ipynb)
-#     (due 1/30)
-
-#     - [Solutions](https://github.com/DS-100/sp19/blob/master/labs/lab02/lab02_sol.ipynb)
-
-#     - [Vitamin 1 Solutions](assets/vitamins/vit1_sol.pdf)
-
-#     '
-#   resources: '- [Textbook: Tabular Data](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
-
-#     - [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec03)
-
-#     - [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec03)
-
-#     '
-#   slides: https://docs.google.com/presentation/d/1j-rNsz8WbmHMj1TLp-Ap4MAipo_zbu_KX1J9waP-fAg/edit?usp=sharing
-#   topic: Data Tables with Pandas
