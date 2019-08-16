@@ -10,58 +10,6 @@ you can browse:
 - [The Google Drive folder containing all lecture slides.](https://drive.google.com/drive/folders/155HsAyFuOFiyY8F3xDiEPTzZshlk8SiG)
 - [The YouTube playlist of all recorded screencasts.](https://www.youtube.com/playlist?list=PLPHXc20GewP8J56CisONS_mFZWZAfa7jR)
 
-<script>
-  function get_buttom() {
-    return document.getElementsByClassName('show_hide_description_click')[0];
-  }
-
-  function showCurrentWeekDescription() {
-    const lectures = document.getElementsByClassName('lecture');
-
-  for (var i = 0; i < lectures.length; i++ ) {
-      let lecture = lectures[i];
-      const { lectureWeek, lectureDate } = lecture.dataset;
-      const lec_date = new Date(lectureDate + ' 23:59:59');
-
-      if (current_date <= lec_date) {
-        const descEls = document.getElementsByClassName(`description-week-${lectureWeek}`);
-        for (var j = 0; j < descEls.length; j++) {
-          descEl = descEls[j];
-          descEl.hidden = null;
-        }
-        break;
-      }
-    }
-  }
-
-  function hideAllDescription() {
-    const descEls = document.getElementsByClassName('lecture__description');
-    for (var j = 0; j < descEls.length; j++) {
-      descEl = descEls[j];
-      descEl.hidden = "true";
-    }
-    showCurrentWeekDescription();
-
-    const buttom = get_buttom();
-    buttom.text = "Show all lecture descriptions";
-    buttom.onclick=showAllDescription;
-  }
-
-  function showAllDescription() {
-    const descEls = document.getElementsByClassName('lecture__description');
-    for (var j = 0; j < descEls.length; j++) {
-      descEl = descEls[j];
-      descEl.hidden = null;
-    }
-
-    const buttom = get_buttom();
-    buttom.text = "Hide all lecture descriptions";
-    buttom.onclick=hideAllDescription;
-  }
-
-</script>
-<!-- <a class="show_hide_description_click" href="javascript:void(0)" onclick="showAllDescription();">Show all lecture descriptions</a> -->
-
 <div class="table-responsive">
   <table class="syllabus table" id="syllabus_table">
     <colgroup>
@@ -97,9 +45,10 @@ you can browse:
 
 <!--
 Script to highlight the current lecture.
+Commented out since the course is over now.
 -->
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 const current_date = new Date();
 const lectures = document.getElementsByClassName('lecture');
 
@@ -128,4 +77,4 @@ for (var i = 0; i < lectures.length; i++ ) {
 
   window.location.hash = `lecture-week-${lectureWeek}`;
 }
-</script>
+</script> -->
