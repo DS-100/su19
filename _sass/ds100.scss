@@ -83,6 +83,10 @@ ul {
 .announcements-and-content {
   width: 100%;
   overflow-y: scroll;
+
+  // Makes scrolling smooth on iOS
+  // https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/
+  -webkit-overflow-scrolling: touch;
 }
 
 .content {
