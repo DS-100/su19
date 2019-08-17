@@ -146,6 +146,7 @@
     - [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
   homework: |
     [HW4](assets/hw/hw4.pdf) (due 07/23 @ 11:59PM)
+    - [Solutions](assets/hw/hw4_sol.pdf)
   discussion: |
     - [Disc 7](https://github.com/DS-100/su19/blob/master/disc/disc07/disc07.pdf)
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc07/disc07_sol.pdf)
@@ -182,6 +183,7 @@
     [Lab 8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab08/) (due 07/23 @ 11:59PM)
   homework: |
     [HW5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw5/) (due 07/26 @ 11:59PM)
+    - [Solutions](assets/hw/hw5sols.pdf)
 - date: 07/24/2019
   topic: 'Feature Engineering and Bias-Variance'
   slides: https://docs.google.com/presentation/d/1s7aThK9YKjzcJH3STtDR2NN6k9k2_CH6hbXmeVs0ysU/edit#slide=id.g5d103643b4_0_49
@@ -206,6 +208,7 @@
     - [Textbook: Regularization](https://www.textbook.ds100.org/ch/16/reg_intro.html)
   homework: |
     - [HW6](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw6/) (due 07/30 @ 11:59PM)
+    - [Solutions](assets/hw/hw6sol.pdf)
   lab : |
     [Lab 9](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab09/) (due 07/25 @ 11:59PM)
 - date: 07/29/2019
@@ -242,6 +245,7 @@
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc11/disc11_sol.pdf)
   homework: |
     - [Proj 2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=proj/proj2/) (due 8/6 @ 11:59 PM)
+    - [Solutions](assets/hw/proj2sol.pdf)
 - date: 08/01/2019
   topic: 'Inference for Modeling'
   slides: https://docs.google.com/presentation/d/1W2i_xslWFBXAsnAeweWT5WYSX5CulY6zsl07A5jPwTs/edit
@@ -283,6 +287,7 @@
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec25)
   homework: |
     - [Proj 3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=proj/proj3/) (due 8/13 @ 11:59 PM)
+    - [Solutions](assets/hw/proj3sol.pdf)
   discussion: |
     - [Disc 13](https://github.com/DS-100/su19/blob/master/disc/disc13/disc13.pdf)
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc13/disc13_sol.pdf)
