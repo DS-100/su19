@@ -5,7 +5,13 @@
     <div class="staff__item">
         <img class="staff__img" src="{{ staff.image }}" alt="{{ staff.name }}" />
         <address>
-            <strong>{{ staff.name }}</strong>
+            {%- if staff.website -%}
+                <a href="{{ staff.website }}" target="_blank">
+                    <strong>{{ staff.name }}</strong>
+                </a>
+            {%- else -%}
+                <strong>{{ staff.name }}</strong>
+            {%- endif -%}
             {% for line in staff.oh_info %}
             <p class="section__time"> {{ line }} </p>
             {% endfor %}

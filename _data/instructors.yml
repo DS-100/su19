@@ -1,6 +1,7 @@
 - email: samlau@berkeley.edu
   image: assets/images/staff_pics/sam_lau.jpg
+  website: https://www.samlau.me/
   oh_info:
-  - 'OH: M 11 - 12 (355 Evans)'
-  - 'OH: M 1 - 2 (355 Evans)'
+    - "OH: M 11 - 12 (355 Evans)"
+    - "OH: M 1 - 2 (355 Evans)"
   name: Sam Lau

@@ -12,9 +12,8 @@
   slides: https://docs.google.com/presentation/d/1ebdSAx5Rl3PXJfDSYfM1MG375EvdKqZ4IJycKuHTLFU/edit?usp=sharing
   homework: |
     - [HW1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw1/hw1.ipynb) (due 06/25 @ 11:59PM)
-    - [Solutions](assets/hw/hw1sol.pdf)
 - date: 06/25/2019
-  topic: 'Data Tables with pandas Part 1'
+  topic: "Data Tables with pandas Part 1"
   slides: https://docs.google.com/presentation/d/1hwjcENCEm7blFBAXKcLZMT3t4xRr-HMV6N42UR1nTxU/edit#slide=id.g5c305531ae_1_25
   resources: |
     - [Screencast](https://youtu.be/7ns-k29aMgE)
@@ -28,7 +27,7 @@
     - [Disc2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc02/disc02.ipynb)
     - [Solutions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc02/disc02sol.ipynb)
 
-  topic: 'Data Tables with pandas Part 2'
+  topic: "Data Tables with pandas Part 2"
   slides: https://docs.google.com/presentation/d/1PuaVQkMaytd6fK-jb_FSnYn54EgWIhLThSsHFbNq6Rs/edit#slide=id.g5c3845c2c9_0_29
   resources: |
     - [Screencast](https://youtu.be/RwsyYhSQSoU)
@@ -36,7 +35,7 @@
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec03)
     - [Textbook: Tabular Data and pandas](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
 - date: 06/27/2019
-  topic: 'Data Cleaning'
+  topic: "Data Cleaning"
   slides: https://docs.google.com/presentation/d/1cLSOsGYrzOZo1awGJoaQFQRkYq4shzkGbjXIHBsLS0E/edit#slide=id.g5c7ba9665a_0_33
   resources: |
     - [Screencast](https://youtu.be/kNgUMhSsJt4)
@@ -45,11 +44,10 @@
     - [Textbook: Tabular Data and pandas](https://www.textbook.ds100.org/ch/05/cleaning_intro.html)
   homework: |
     - [Proj1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=proj/proj1/proj1.ipynb) (due 07/02 @ 11:59PM)
-    - [Solutions](https://github.com/DS-100/su19/blob/master/proj/proj1/proj1_sol.pdf)
   lab: |
     - [Lab2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab02/lab02.ipynb) (due 06/27 @ 11:59PM)
 - date: 07/01/2019
-  topic: 'Visualization'
+  topic: "Visualization"
   discussion: |
     - [Disc3](https://github.com/DS-100/su19/blob/master/disc/disc03/disc03.pdf)
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc03/disc03sol.pdf)
@@ -60,7 +58,7 @@
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec05)
     - [Textbook: Data Visualization](https://www.textbook.ds100.org/ch/06/viz_intro.html)
 - date: 07/02/2019
-  topic: 'Visualization'
+  topic: "Visualization"
   slides: https://docs.google.com/presentation/d/16dhaBgUQvGOUb5Mq3avxas8ogZegeaOVaBakIzZ6gy8/edit#slide=id.g5c7ba9665a_0_33
   resources: |
     - [Screencast](https://youtu.be/SiVLrxGfUEU)
@@ -68,7 +66,7 @@
   lab: |
     [Lab3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab03/lab03.ipynb) (due 07/02 @ 11:59PM)
 - date: 07/03/2019
-  topic: 'EDA & Working with Text'
+  topic: "EDA & Working with Text"
   slides: https://docs.google.com/presentation/d/19odz3x4XmWvX0PnR2jKPlslYDcbjqdL2obNXjadaxpE/edit
   resources: |
     - [Screencast](https://youtu.be/ZypKpOG0PKI)
@@ -79,17 +77,15 @@
     - [Textbook: Working with Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
   homework: |
     [HW2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw2/) (due 07/09 @ 11:59PM)
-    - [Solutions](assets/hw/hw2sol.pdf)
   discussion: |
     - [Disc4](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc04/)
     - [Solutions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc04/disc04_sol.ipynb)
 - date: 07/04/2019
-  topic: 'Holiday (no class)'
+  topic: "Holiday (no class)"
   homework: |
     [HW3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw3/) (due 07/12 @ 11:59PM)
-    - [Solutions](assets/hw/hw3sol.pdf)
 - date: 07/08/2019
-  topic: 'SQL'
+  topic: "SQL"
   discussion: |
     - [Disc5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc05/)
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc05/disc05sol.pdf)
@@ -100,7 +96,7 @@
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec08)
     - [Textbook: Databases and SQL](https://www.textbook.ds100.org/ch/09/sql_intro.html)
 - date: 07/09/2019
-  topic: 'Dimensionality Reduction'
+  topic: "Dimensionality Reduction"
   slides: https://docs.google.com/presentation/d/1qgFwJNl1r_bZXQWhD1d8dlgoYYsLL9o7UYtjWC6-e9k/edit#slide=id.g5d034b63a4_0_41
   resources: |
     - [Screencast](https://www.youtube.com/watch?v=Pd_XyqzkCZU)
@@ -109,7 +105,7 @@
   lab: |
     [Lab5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab05/lab05.ipynb) (due 07/09 @ 11:59PM)
 - date: 07/10/2019
-  topic: 'PCA'
+  topic: "PCA"
   slides: https://docs.google.com/presentation/d/1nYyVJy80xP4rBPvHfacgr_uA66gOXtNkEdjgtMb4E40/edit#slide=id.g5d069b8f68_0_45
   resources: |
     - [Screencast (from Sp19)](https://www.youtube.com/watch?v=DeEI6xy2CDM)
@@ -119,7 +115,7 @@
     - [Disc6](https://github.com/DS-100/su19/blob/master/disc/disc06/disc06.pdf)
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc06/disc06_sol.pdf)
 - date: 07/11/2019
-  topic: 'Midterm Review (originally a Case Study)'
+  topic: "Midterm Review (originally a Case Study)"
   slides: https://docs.google.com/presentation/d/1MRBrp19dfDELxwSLHaG5shL4GnaOEmDY3ML_Wrijv-A/edit#slide=id.g5d103643b4_0_49
   resources: |
     - [Screencast](https://youtu.be/cSKRt79pYos)
@@ -129,39 +125,38 @@
   lab: |
     [Lab6](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab06/lab06.ipynb) (due 07/11 @ 11:59PM)
 - date: 07/15/2019
-  topic: 'Midterm Review'
+  topic: "Midterm Review"
   slides: https://docs.google.com/presentation/d/1ngUnwlAdBSYCWoqx69YrjWxyIpv4mFjo29-GfyTzQtE/edit
   resources: |
     - [Screencast](https://youtu.be/X-OyVDTb0FM)
 - date: 07/16/2019
-  topic: 'Midterm'
+  topic: "Midterm"
   resources: |
     - [Blank Midterm](assets/exams/su19/su19mt_blank.pdf)
     - [Solutions](assets/exams/su19/su19mt_sol.pdf)
 - date: 07/17/2019
-  topic: 'Foundations of Statistical Inference: Random Variables and Estimators'
+  topic: "Foundations of Statistical Inference: Random Variables and Estimators"
   slides: https://docs.google.com/presentation/d/1Jfj_bQOHGXOG1foNygG1LTrU8hDqv80rEyTvm2zU4wA/edit#slide=id.g5d103643b4_0_49
   resources: |
     - [Screencast (from Sp19)](https://www.youtube.com/watch?v=WXPDLwx7E5M)
     - [Textbook: Probability and Generalization](https://www.textbook.ds100.org/ch/12/prob_and_gen.html)
   homework: |
     [HW4](assets/hw/hw4.pdf) (due 07/23 @ 11:59PM)
-    - [Solutions](assets/hw/hw4_sol.pdf)
   discussion: |
     - [Disc 7](https://github.com/DS-100/su19/blob/master/disc/disc07/disc07.pdf)
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc07/disc07_sol.pdf)
 - date: 07/18/2019
-  topic: 'Foundations of Statistical Inference: Risk and Loss Functions'
+  topic: "Foundations of Statistical Inference: Risk and Loss Functions"
   slides: https://docs.google.com/presentation/d/1fWkDOGp4vs1PAlEnUU9aXDl6DK4T06TNNkbYhU8iLeo/edit
   resources: |
     - [Screencast](https://www.youtube.com/watch?v=mfA1IGl0syU)
     - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec14/lec14.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec14)
     - [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
-  lab : |
+  lab: |
     [Lab 7](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab07/)
 - date: 07/22/2019
-  topic: 'Linear Regression'
+  topic: "Linear Regression"
   discussion: |
     - [Disc 8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc08/disc08.ipynb)
     - [Solutions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=disc/disc08/disc08sols.ipynb)
@@ -172,20 +167,19 @@
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec15)
     - [Textbook: Linear Regression](https://www.textbook.ds100.org/ch/13/linear_models.html)
 - date: 07/23/2019
-  topic: 'Gradient Descent'
+  topic: "Gradient Descent"
   slides: https://docs.google.com/presentation/d/1jukDrq1LHx_DdRG87mGDikwBT4Z-fDcWPBmx3pO3jkI/edit#slide=id.g5d103643b4_0_49
   resources: |
     - [Screencast](https://youtu.be/YUWyDSi2z8k)
     - [Demo on DataHub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lec/lec16/lec16.ipynb)
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec16)
     - [Textbook: Gradient Descent](https://www.textbook.ds100.org/ch/11/gradient_descent.html)
-  lab : |
+  lab: |
     [Lab 8](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab08/) (due 07/23 @ 11:59PM)
   homework: |
     [HW5](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw5/) (due 07/26 @ 11:59PM)
-    - [Solutions](assets/hw/hw5sol.pdf)
 - date: 07/24/2019
-  topic: 'Feature Engineering and Bias-Variance'
+  topic: "Feature Engineering and Bias-Variance"
   slides: https://docs.google.com/presentation/d/1s7aThK9YKjzcJH3STtDR2NN6k9k2_CH6hbXmeVs0ysU/edit#slide=id.g5d103643b4_0_49
   resources: |
     - [Screencast](https://youtu.be/Quant8d0aoA)
@@ -198,7 +192,7 @@
     - [Disc 9](https://github.com/DS-100/su19/blob/master/disc/disc09/disc09.pdf)
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc09/disc09_sol.pdf)
 - date: 07/25/2019
-  topic: 'Cross-Validation and Regularization'
+  topic: "Cross-Validation and Regularization"
   slides: https://docs.google.com/presentation/d/1Mq9tkB4424622uuf6tb3vhgvMoijxTd4IgpRSSS-s14/edit#slide=id.g5d103643b4_0_49
   resources: |
     - [Screencast](https://youtu.be/gu61TIu2ywk)
@@ -208,11 +202,10 @@
     - [Textbook: Regularization](https://www.textbook.ds100.org/ch/16/reg_intro.html)
   homework: |
     - [HW6](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=hw/hw6/) (due 07/30 @ 11:59PM)
-    - [Solutions](assets/hw/hw6sol.pdf)
-  lab : |
+  lab: |
     [Lab 9](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab09/) (due 07/25 @ 11:59PM)
 - date: 07/29/2019
-  topic: 'Logistic Regression'
+  topic: "Logistic Regression"
   slides: https://docs.google.com/presentation/d/1D4JXVXhVT6YfkQs5KbE98H11bHiJ_2bjLFDc1G73-YQ/edit#slide=id.g5e0612b69e_1_53
   resources: |
     - [Screencast](https://youtu.be/Ibw0WrnzT7I)
@@ -223,7 +216,7 @@
     - [Disc 10](https://github.com/DS-100/su19/blob/master/disc/disc10/disc10.pdf)
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc10/disc10_sol.pdf)
 - date: 07/30/2019
-  topic: 'Classifier Evaluation and Fitting'
+  topic: "Classifier Evaluation and Fitting"
   slides: https://docs.google.com/presentation/d/1ZmEdhdUIA1Yvq7SxMnV41jrpxZd_S9lD0D23Qe7vFa0/edit
   resources: |
     - [Screencast](https://youtu.be/X_7wyL-LFBc)
@@ -233,7 +226,7 @@
   lab: |
     [Lab 10](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab10/) (due 07/30 @ 11:59PM)
 - date: 07/31/2019
-  topic: 'Decision Boundaries, Modeling Considerations'
+  topic: "Decision Boundaries, Modeling Considerations"
   slides: https://docs.google.com/presentation/d/1ybwBNhVgon2IM5uOE_tel1m4A_EKGcMGZGQWSRhUrqA/edit
   resources: |
     - [Screencast](https://www.youtube.com/watch?v=eAX4oHidlZk)
@@ -245,9 +238,8 @@
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc11/disc11_sol.pdf)
   homework: |
     - [Proj 2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=proj/proj2/) (due 8/6 @ 11:59 PM)
-    - [Solutions](assets/hw/proj2sol.pdf)
 - date: 08/01/2019
-  topic: 'Inference for Modeling'
+  topic: "Inference for Modeling"
   slides: https://docs.google.com/presentation/d/1W2i_xslWFBXAsnAeweWT5WYSX5CulY6zsl07A5jPwTs/edit
   resources: |
     - [Screencast](https://youtu.be/ocOLDHySr6w)
@@ -258,7 +250,7 @@
   lab: |
     [Lab 11](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab11/) (due 08/01 @ 11:59PM)
 - date: 08/05/2019
-  topic: 'Big Data and Ray (Guest Lecturer: Robert Nishihara)'
+  topic: "Big Data and Ray (Guest Lecturer: Robert Nishihara)"
   discussion: |
     - [Disc 12](https://github.com/DS-100/su19/blob/master/disc/disc12/disc12.pdf)
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc12/disc12_sol.pdf)
@@ -266,7 +258,7 @@
   resources: |
     - [Screencast](https://youtu.be/F_ui9u3EVpI)
 - date: 08/06/2019
-  topic: 'Big Data and Spark, Decision Trees'
+  topic: "Big Data and Spark, Decision Trees"
   slides: https://docs.google.com/presentation/d/1BQnIgLxXNA7vFMPGuar_c5iw2vyxFq_E-6o2pO7Lhdw/edit#slide=id.g5e117ba9f7_0_57
   resources: |
     - [Screencast (Spark)](https://youtu.be/_mgFf2528Ko)
@@ -279,7 +271,7 @@
   lab: |
     [Lab 12](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=lab/lab12/) (due 08/06 @ 11:59PM)
 - date: 08/07/2019
-  topic: 'Random Forests, Runtime Analysis, Modeling Overview'
+  topic: "Random Forests, Runtime Analysis, Modeling Overview"
   slides: https://docs.google.com/presentation/d/1uw1l7N1W7qajomzrYIg_gaMJKHMjAank6OWf05vMdmY/edit
   resources: |
     - [Screencast](https://youtu.be/qh16ITL4bGQ)
@@ -287,17 +279,16 @@
     - [Demo on GitHub](https://github.com/DS-100/su19/tree/master/lec/lec25)
   homework: |
     - [Proj 3](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su19&subPath=proj/proj3/) (due 8/13 @ 11:59 PM)
-    - [Solutions](assets/hw/proj3sol.pdf)
   discussion: |
     - [Disc 13](https://github.com/DS-100/su19/blob/master/disc/disc13/disc13.pdf)
     - [Solutions](https://github.com/DS-100/su19/blob/master/disc/disc13/disc13_sol.pdf)
 - date: 08/08/2019
-  topic: 'Ethics & Conclusion'
+  topic: "Ethics & Conclusion"
   slides: https://docs.google.com/presentation/d/1gYvF1EalO9Bu-j4TbT9239WxanZmzdeu8ItZDfptSa0/edit
   resources: |
     - [Screencast](https://youtu.be/1lDd6usG0c8)
 - date: 08/12/2019
-  topic: 'Final Review'
+  topic: "Final Review"
   slides: https://docs.google.com/presentation/d/1XohGU1b0n1E_CPMTr9IBjFIfAVkg0ceOOd7SRYI3pvw/edit
   resources: |
     - [Screencast](https://youtu.be/7AqiBk1SQWg)
@@ -307,12 +298,12 @@
     - [Disc 14](https://github.com/DS-100/su19/blob/master/disc/disc14/disc14.pdf)
     - [Disc 14 Sols](https://github.com/DS-100/su19/blob/master/disc/disc14/disc14_sol.pdf)
 - date: 08/13/2019
-  topic: 'Final Review'
+  topic: "Final Review"
   slides: https://docs.google.com/presentation/d/1YTWkGv37tRBuf3NmZTw-wqMvPmmOd_YWcizFdHFp8xM/edit?usp=sharing
   resources: |
     - [Screencast](https://youtu.be/0GgYpFgcY2Y)
     - [Marked-up Slides](https://drive.google.com/file/d/1YB1xXzb9Ll00PVawUoad1oTyXMVU__Ax/view?usp=sharing)
 - date: 08/14/2019
-  topic: 'Break (no lecture)'
+  topic: "Break (no lecture)"
 - date: 08/15/2019
-  topic: 'Final (9:30am - 12:30pm)'
+  topic: "Final (9:30am - 12:30pm)"
