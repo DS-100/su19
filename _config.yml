@@ -22,3 +22,10 @@ baseurl: /su19
 
 sass:
   style: compressed
+
+callouts:
+  highlight:
+    color: yellow
+  warning:
+    title: Warning
+    color: red

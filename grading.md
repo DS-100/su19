@@ -3,6 +3,9 @@ layout: page
 title: "Grading"
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 - 5% (or 0%) Attendance
 - 15% Labs
 - 20% Homeworks

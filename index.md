@@ -3,6 +3,10 @@ layout: page
 title: "Principles and Techniques of Data Science"
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
+
 <!-- # DS100: Principles & Techniques of Data Science -->
 
 Combining data, computation, and inferential thinking, data science is

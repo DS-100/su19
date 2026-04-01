@@ -3,6 +3,9 @@ layout: page
 title: "Resources"
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 ## Exam Resources
 
 | Semester           | Midterm 1                                                                                                                                                                                    | Midterm 2                                                                                                | Final                                                                                                                                                                                    |

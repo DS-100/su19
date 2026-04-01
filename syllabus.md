@@ -4,6 +4,10 @@ title: "Syllabus"
 page_class: content-wide
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
+
 The materials for each lecture are linked in the table below. Alternatively,
 you can browse:
 

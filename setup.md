@@ -4,6 +4,9 @@ title: "Computer Setup for Working Locally"
 description: "Instructions to set up your data science environment."
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 ## Note
 
 We will still be using datahub as our primary computing environment. This page
